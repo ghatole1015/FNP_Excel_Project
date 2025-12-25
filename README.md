@@ -48,7 +48,7 @@ FNP _ Excel Project/
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard]( )
+![Dashboard](https://github.com/ghatole1015/FNP_Excel_Project/blob/main/Dashboard%20image.jpg)
 
 ---
 
