@@ -39,10 +39,15 @@ The goal of this project is to analyze sales performance, customer behavior, and
 
 ## 📂 Project Structure
 FNP _ Excel Project/
+
 │
+
 ├── FNP/ # Excel data files
+
 ├── Dashboard image.jpg # Dashboard preview image
+
 ├── Ferns and Petals Sales Analysis.html
+
 └── README.md
 
 ---
